@@ -104,7 +104,6 @@ class Repository {
     Answer('Harika Olacak'),
     Answer('Mücadeleye Değer Değil'),
     Answer('Gitme Zamanın Geldi'),
-    Answer(''),
     Answer('Esnek Kalın'),
     Answer('İlgili Sorunlar Yüzeye Çıkabilir'),
     Answer('Yaklaşımınızı Yeniden Düşünün'),
